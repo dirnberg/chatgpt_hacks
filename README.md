@@ -13,3 +13,6 @@ The script extracts the relevant fields from the vcard_data dictionary and conca
 The script creates a QR code object using the qrcode module, adds the vCard string as data to the QR code object, and sets the error correction level, box size, and border.
 The script generates the QR code image using the make_image() method of the QR code object and saves it as a PNG file.
 Overall, this script provides an easy way to generate a QR code for vCard information that can be shared with others through email, social media, or other means.
+
+(done with chatgpt)
+prompt: write python code to get a qr code from vcard information
