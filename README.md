@@ -1,4 +1,4 @@
-# qr_vcard_generator
+# vcard_qr_generator.py
 
 is a Python script that generates a QR code for vCard information.
 
