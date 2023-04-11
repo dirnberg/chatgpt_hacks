@@ -1,4 +1,7 @@
 #Usage
+
+#pip install argparse Pillow qrcode
+
 #python3 vcard_qr_logo.py --qr_path Jane_Doe.png 
 
 import argparse
