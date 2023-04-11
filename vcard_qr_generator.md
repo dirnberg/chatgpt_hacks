@@ -6,17 +6,18 @@ The QR code images are assumed to be in 300 dpi and will be converted to RGBA mo
 
 Usage
 
-´´´bash
+´```shell
 python3 vcard_qr_logo.py --prefix vcard_QR_ --folder ./QRcodes
-´´´
+```
+
 Arguments
 --prefix: The prefix for the input QR code image filenames (default is "vcard_QR_")
 --folder: The path to the folder containing the input QR code images (default is current directory)
 
 # Requirements
-´´´bash
+```shell
 pip install pillow qrcode
-´´´
+```
 
 This will install both Pillow and qrcode packages. You can run this command in your terminal or command prompt to install the packages.
 
