@@ -1,4 +1,7 @@
 # usage
+
+# pip install argparse qrcode
+
 # python3 vcard_qr_generator.py --vcard '{"first_name": "Jane", "last_name": "Doe", "company": "XYZ Corporation", "position": "Director", "mobile_number": "+1 555-987-6543", "tel_number": "+1 555-123-4567", "email": "jane.doe@xyzcorp.com"}'
 
 import argparse
