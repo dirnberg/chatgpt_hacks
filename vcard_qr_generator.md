@@ -20,9 +20,11 @@ This will install both Pillow and qrcode packages. You can run this command in y
 python3 vcard_qr_logo.py --prefix vcard_QR_ --folder ./QRcodes
 ```
 
+```bash
 Arguments
 --prefix: The prefix for the input QR code image filenames (default is "vcard_QR_")
 --folder: The path to the folder containing the input QR code images (default is current directory)
+```
 
 (done with chatgpt)
 prompt: write python code to get a qr code from vcard information
